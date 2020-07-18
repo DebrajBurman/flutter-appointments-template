@@ -1,7 +1,7 @@
 # appointments
 
 A new Flutter application.
-
+A Design Page for an appointments app.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
